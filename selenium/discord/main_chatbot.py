@@ -129,4 +129,4 @@ async def on_message(message):
         
 
 # discord 토큰 값
-client.run('MTE3NTM1MjkwMzA3MDkyNDg2MA.Gmy-8m.7K97MTNr2aYpD0Oa-rjvpzIMoSFXXntqtOWP70')
+client.run('YOUR TOKEN')
